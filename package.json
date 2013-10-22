@@ -1,9 +1,9 @@
 {
   "name": "last-tab",
   "fullName": "last-tab",
-  "id": "jid1-0FE4uwmKGigp8Q",
-  "description": "a basic add-on",
-  "author": "",
+  "id": "last-tab@canuckistani.ca",
+  "description": "Simple helper add-on that takes you to the last tab you had open, no matter where it is.",
+  "author": "Jeff Griffiths <jeff@canuckistani.ca>",
   "license": "MPL 2.0",
   "version": "0.1"
 }
